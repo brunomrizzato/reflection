@@ -1,6 +1,7 @@
 git log: mostra o log do git contendo o id do commit, o autor e a qual branch ele pertence.
 git status: mostra quais arquivos n foram comitados, e quais estao a ser comitados.
 git checkout: carrega um commit ou branch
+git init: inicia um repositório.
 git add: adiciona o arquivo a ser comitado no stach;
 git diff "nome1" "nome2": diferença entre os dois arquivos do commits.
 git diff: diferença entre os arquivos não comitados
