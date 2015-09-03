@@ -1,0 +1,10 @@
+git log: mostra o log do git contendo o id do commit, o autor e a qual branch ele pertence.
+git status: mostra quais arquivos n foram comitados, e quais estao a ser comitados.
+git checkout: carrega um commit ou branch
+git diff "nome1" "nome2": diferença entre os dois arquivos do commits.
+git diff: diferença entre os arquivos não comitados
+git branch: cria um branch novo.
+git clone: clona um repositorio pra maquina.
+git remote add "nome" "url": adiciona um repositório github.
+git remote -v: mostra detalhes dos repositórios github
+git push "nome do repositório" "branch": adiciona o branch no repositório github(nuvem)
