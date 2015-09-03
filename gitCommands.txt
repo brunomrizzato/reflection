@@ -9,4 +9,4 @@ git clone: clona um repositorio pra maquina.
 git remote add "nome" "url": adiciona um repositório github.
 git remote -v: mostra detalhes dos repositórios github
 git push "nome do repositório" "branch": adiciona o branch no repositório github(nuvem)
-it pull "nome do repositório" "branch": puxa o que ah de novo scoobdoo do github.
+git pull "nome do repositório" "branch": puxa o que ah de novo scoobdoo do github.
